@@ -62,10 +62,27 @@
 
 
 <br/>  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevOlaMicheal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevOlaMicheal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOlaMicheal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DevOlaMicheal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DevOlaMicheal&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevOlaMicheal&limit=5&theme=dark&combine_all_yearly_contributions=true)
