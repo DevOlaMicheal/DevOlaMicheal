@@ -1,7 +1,4 @@
 ### Hi there 👋
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center"> Hi there 👋, I'm Ola, Currently learning and finding my place in tech</div>  
@@ -10,11 +7,11 @@
 - 🔭 I’m current learning and working on projects, i'm also opened to internships  
   
 
-- 🌱 I’m currently learning MERN   
+- 🌱 I’m currently learning the MERN stack 
   
 
 - ⚡ Fun fact: I use tabs over spaces
-⚡ Fun fact: I prefer the vscode git extension to terminal  
+- ⚡ Fun fact: I prefer the vscode git extension to terminal  
   
 
 <br/>  
@@ -66,41 +63,19 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DevOlaMicheal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<br/> <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DevOlaMicheal&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=DevOlaMicheal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevOlaMicheal&icon=0&color=3)](https://visitcount.itsvg.in)<br/>  
-
+</div>
   
 
 <br/>  
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DevOlaMicheal&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
