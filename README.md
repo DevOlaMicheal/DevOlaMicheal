@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning the MERN stack 
   
 
-- ⚡ Fun fact: I sometimes use tabs over spaces
-- ⚡ Fun fact: I've not shutdown my laptop in almost a month  
+- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: I prefer the vscode git extension to terminal  
   
 
 <br/>  
@@ -67,13 +67,20 @@
 
 <div align="center">
 ### 🔝 Top Contributed Repo
-<br/> 
+<br/> <br/>  
+  
 ![](https://github-contributor-stats.vercel.app/api?username=DevOlaMicheal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevOlaMicheal&icon=0&color=3)](https://visitcount.itsvg.in)<br/>  
 </div>
   
+
+<br/>  
+
+<br/>  
+
+<div align="center"></div>
 <br />
 
 ---
