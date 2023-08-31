@@ -4,14 +4,11 @@
 ### <div align="center"> Hi there 👋, I'm Ola, Currently learning and finding my place in tech</div>  
   
 
-- 🔭 I’m current learning and working on projects, i'm also opened to internships  
+- 🔭 I’m current learning and working on projects.
   
 
 - 🌱 I’m currently learning the MERN stack 
   
-
-- ⚡ Fun fact: I use tabs over spaces
-- ⚡ Fun fact: I prefer the vscode git extension to terminal  
   
 
 <br/>  
